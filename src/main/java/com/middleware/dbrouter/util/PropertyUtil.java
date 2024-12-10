@@ -8,7 +8,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
- * annotation模块放自定义的注解
+ * 配置文件解析工具
  */
 public class PropertyUtil {
     private static int springBootVersion = 1;
